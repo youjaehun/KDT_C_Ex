@@ -11,3 +11,4 @@ void main()
 	a = func1();
 	printf("main() 에서 a의 값==> %d\n", a);
 }
+
