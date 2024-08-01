@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="First.c">
+    <ClCompile Include="ex_First.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex_func.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
