@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\if_switch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|solutionrelative:if_switch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\bit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|solutionrelative:bit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "if_switch.c",
+              "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\if_switch.c",
+              "RelativeDocumentMoniker": "if_switch.c",
+              "ToolTip": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\if_switch.c",
+              "RelativeToolTip": "if_switch.c",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAF0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-01T07:43:59.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "bit.c",
               "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\bit.c",
               "RelativeDocumentMoniker": "bit.c",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ex_local_global.c",
               "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\ex_local_global.c",
               "RelativeDocumentMoniker": "ex_local_global.c",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "ex_local_global.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-01T06:40:02.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T06:40:02.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ex_func.c",
               "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\ex_func.c",
               "RelativeDocumentMoniker": "ex_func.c",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "ex_func.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-01T06:14:53.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T06:14:53.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ex_First.c",
               "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\ex_First.c",
               "RelativeDocumentMoniker": "ex_First.c",
@@ -77,8 +92,7 @@
               "RelativeToolTip": "ex_First.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-01T00:36:10.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:36:10.163Z"
             }
           ]
         }
