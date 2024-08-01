@@ -1,2 +1,6 @@
 ﻿  First.c
+C:\Users\harde\Desktop\경신 미래자동차 SW 캠프\1주차\KDT_C\First\First.c(15,6): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\harde\Desktop\경신 미래자동차 SW 캠프\1주차\KDT_C\First\First.c(21,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\harde\Desktop\경신 미래자동차 SW 캠프\1주차\KDT_C\First\First.c(22,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+C:\Users\harde\Desktop\경신 미래자동차 SW 캠프\1주차\KDT_C\First\First.c(23,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
   First.vcxproj -> C:\Users\harde\Desktop\경신 미래자동차 SW 캠프\1주차\KDT_C\First\x64\Debug\First.exe
