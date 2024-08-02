@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\for_while.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|solutionrelative:for_while.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\func2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|solutionrelative:func2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\if_switch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|solutionrelative:if_switch.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\func1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|solutionrelative:func1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\bit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|solutionrelative:bit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\func.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|solutionrelative:func.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\ex_func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|solutionrelative:ex_func.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\ex_First.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|solutionrelative:ex_First.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\ex_local_global.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|solutionrelative:ex_local_global.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3ED3AB3D-181A-4EFC-90B9-80E94CF43A26}|First.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,81 +26,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "for_while.c",
-              "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\for_while.c",
-              "RelativeDocumentMoniker": "for_while.c",
-              "ToolTip": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\for_while.c",
-              "RelativeToolTip": "for_while.c",
-              "ViewState": "AQIAAFkAAAAAAAAAAAASwGUAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-02T00:01:37.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "if_switch.c",
-              "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\if_switch.c",
-              "RelativeDocumentMoniker": "if_switch.c",
-              "ToolTip": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\if_switch.c",
-              "RelativeToolTip": "if_switch.c",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAAAF0AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-01T07:43:59.145Z",
+              "WhenOpened": "2024-08-02T01:25:12.214Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "bit.c",
-              "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\bit.c",
-              "RelativeDocumentMoniker": "bit.c",
-              "ToolTip": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\bit.c",
-              "RelativeToolTip": "bit.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-01T07:17:39.897Z"
+              "Title": "func.h",
+              "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\func.h",
+              "RelativeDocumentMoniker": "func.h",
+              "ToolTip": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\func.h",
+              "RelativeToolTip": "func.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-02T08:15:28.008Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ex_local_global.c",
-              "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\ex_local_global.c",
-              "RelativeDocumentMoniker": "ex_local_global.c",
-              "ToolTip": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\ex_local_global.c",
-              "RelativeToolTip": "ex_local_global.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "func1.c",
+              "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\func1.c",
+              "RelativeDocumentMoniker": "func1.c",
+              "ToolTip": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\func1.c",
+              "RelativeToolTip": "func1.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-01T06:40:02.562Z"
+              "WhenOpened": "2024-08-02T08:22:24.82Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ex_func.c",
-              "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\ex_func.c",
-              "RelativeDocumentMoniker": "ex_func.c",
-              "ToolTip": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\ex_func.c",
-              "RelativeToolTip": "ex_func.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "func2.c",
+              "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\func2.c",
+              "RelativeDocumentMoniker": "func2.c",
+              "ToolTip": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\func2.c",
+              "RelativeToolTip": "func2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-01T06:14:53.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ex_First.c",
-              "DocumentMoniker": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\ex_First.c",
-              "RelativeDocumentMoniker": "ex_First.c",
-              "ToolTip": "C:\\Users\\harde\\Desktop\\\uACBD\uC2E0 \uBBF8\uB798\uC790\uB3D9\uCC28 SW \uCEA0\uD504\\1\uC8FC\uCC28\\KDT_C\\First\\ex_First.c",
-              "RelativeToolTip": "ex_First.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-01T00:36:10.163Z"
+              "WhenOpened": "2024-08-02T08:22:25.363Z",
+              "EditorCaption": ""
             }
           ]
         }
